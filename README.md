@@ -41,3 +41,6 @@ run ProxyServer on your local area network
 ###or java -jar ProxyServer.jar client internetServerIp userName userToken
 
 now you can visit http://inner.hostname.local via http://internet.yourdomain.cn
+
+notice: internet Server need open port 38080 for your local network.
+internet Server listen 34681 for web request.
